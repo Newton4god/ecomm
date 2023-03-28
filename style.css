@@ -1,0 +1,74 @@
+.ay{
+    color: #59ab6e;
+}
+.zay{
+    font-size: large;
+    
+}
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-item{
+    gap: 500px;
+}
+.tar{
+    display: flex;
+    justify-content: center;
+}
+.card-tittle{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bi-cart4{
+    font-size: xx-large;
+   
+    
+}
+/* .bi-search{
+    font-size: large;
+} */
+.bi-person-fill{
+    font-size: xx-large;
+   
+}
+.pay{
+    display: flex;
+    justify-content: center;
+}
+.bi-star-fill{
+    color: rgb(223, 134, 18);
+}
+.sit{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.body{
+    @media only screen and (max-width: 768px) {
+        /* For mobile phones: */
+        [class*="col-"] {
+          width: 100%;
+        }
+      }
+}
+.fj{
+    width: 100px;
+}
+
+    @media only screen and (max-width: 768px)
+     {
+        /* For mobile phones: */
+       .h1{
+        margin: 100px;
+        color: azure;
+       }
+
+      }
+
+
+
+
